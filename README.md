@@ -23,7 +23,7 @@
 
 <div>
             <h2>Gallery</h2>
-            <img src="Hayden.jpeg" alt="Hayden" width="90%">
+            <img src="Hayden.jpg" alt="Hayden" width="90%">
         </div>
 
 </body>
