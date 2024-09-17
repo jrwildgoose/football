@@ -25,6 +25,7 @@
             <h2>Gallery</h2>
             <img src="Hayden.jpg" alt="Hayden" width="90%">
             <img src="IMG-20220414-WA0012.jpg" alt="Goalkeeper" width="90%">
+            <img src="IMG-20220414-WA0013.jpg" alt="Player One" width="90%">   
         </div>
 
 </body>
