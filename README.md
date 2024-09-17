@@ -21,7 +21,10 @@
       <h3>Click to find out more about Wrexham AFC</h3>
     </a>
 
-
+<div>
+            <h2>Gallery</h2>
+            <img src="football/Hayden.jpeg" alt="Hayden" width="90%">
+        </div>
 
 </body>
 
